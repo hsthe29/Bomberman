@@ -1,5 +1,6 @@
 # Bomberman
 Using TornadoFx
+## This project is not done yet, but it will be done soon
 ![Screenshot (169)](https://user-images.githubusercontent.com/95731191/149352864-99b72272-905e-48dc-9adc-1d7e96d6e324.png)
 ![Screenshot (170)](https://user-images.githubusercontent.com/95731191/149352888-91692281-713b-407f-8e07-9e7edcebf934.png)
 ![Screenshot (171)](https://user-images.githubusercontent.com/95731191/149352900-690830c0-17f3-4769-b1e5-6e5f85fffd83.png)
