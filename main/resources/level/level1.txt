@@ -1,0 +1,27 @@
+###################################
+#  x xf    b fx      xsxxf  xx    #
+# *x* *g* * *h* *x* *x* *x*x* *x* #
+#    x  xh   g    x xxh        x x#
+#x*x*s*x* *x*x*x*s*x* *x*f*x*x*x* #
+#x   x   xh fx   xxx   xxk     x x#
+# *x*x*b*x* *x* *b* *x*x*x* * *s* #
+#    hx  xxx     h x  xx f     xxx#
+# * *s* *x* * *g* * *x*f* * *x* * #
+#   xx x h x     x   x       x   g#
+# * * * *x*s* * *x* *x* * *s* *x* #
+#ffx   xbx        xh       x   xxx#
+# * * *x* * * *x* * *x*x* * *x* *@#
+# g    bxb xg      xbxfx     xxxx #
+###################################
+
+rules {
+    # : border
+    * : brick
+    x : ice
+    @ : gate
+    k : key
+    b : bomb
+    s : speed
+    f : flame
+    h : heal
+}

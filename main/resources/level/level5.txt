@@ -1,0 +1,15 @@
+###################################
+#    xs x  xkb  f             h s #
+# *x*f* *h*x* *f*x* *x* *x*x* * * #
+#x  xx    x x  x         x        #
+# *x* *x*b*x*x*x* *h*s*x*b*x*x*f* #
+#x     hsx  xx  x  x       x    sx#
+# * * *f* * * * *x* *x* *x*h*x*x* #
+#         fx  h x  x    f      xxx#
+# * *x*b*h* * * *x* *x* * *x*x*x* #
+#xx  x xs  x x xxx  sx       x x x#
+# * *f* *x* *x*x*x* *x* *h* * *f* #
+# xx   x xh   xx   f   x   x   xx #
+# *s* *x* *f* *x* * *x*x* * *x*b*b#
+#    bbxhx x bx   fx x h    sxx@x #
+###################################
